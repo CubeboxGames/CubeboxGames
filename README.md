@@ -6,3 +6,6 @@ Check out all of our projects here:
   - [Server](https://github.com/cubeboxgames/server)
   - Games:
     - Coming soon!
+    
+# Contact
+To contact CubeBox Games please message `Blocks_n_more#5526` on discord
